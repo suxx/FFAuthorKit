@@ -3562,67 +3562,6 @@
 			};
 			name = Debug;
 		};
-		2CCF0DEC4011FE7CE84EBE90BC5906C1 /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 70D1991148FEAB52C87267876F06834F /* FFAuthorKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FFAuthorKit/FFAuthorKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FFAuthorKit/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FFAuthorKit/FFAuthorKit.modulemap";
-				PRODUCT_MODULE_NAME = FFAuthorKit;
-				PRODUCT_NAME = FFAuthorKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Release;
-		};
-		35F77FB3ABFDB657C1308C43B868C1F5 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 70D1991148FEAB52C87267876F06834F /* FFAuthorKit.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				CURRENT_PROJECT_VERSION = 1;
-				DEFINES_MODULE = YES;
-				DYLIB_COMPATIBILITY_VERSION = 1;
-				DYLIB_CURRENT_VERSION = 1;
-				DYLIB_INSTALL_NAME_BASE = "@rpath";
-				GCC_PREFIX_HEADER = "Target Support Files/FFAuthorKit/FFAuthorKit-prefix.pch";
-				INFOPLIST_FILE = "Target Support Files/FFAuthorKit/Info.plist";
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				MODULEMAP_FILE = "Target Support Files/FFAuthorKit/FFAuthorKit.modulemap";
-				PRODUCT_MODULE_NAME = FFAuthorKit;
-				PRODUCT_NAME = FFAuthorKit;
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VERSIONING_SYSTEM = "apple-generic";
-				VERSION_INFO_PREFIX = "";
-			};
-			name = Debug;
-		};
 		3B738821B2CA89D4F65B79B8F4BF3578 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 6144B609700AC4580719D0CD5B4BFB34 /* YYImage.xcconfig */;
@@ -3810,6 +3749,69 @@
 				VERSION_INFO_PREFIX = "";
 			};
 			name = Debug;
+		};
+		7792DF9F9303E909C226D16CD4B8D3C6 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 70D1991148FEAB52C87267876F06834F /* FFAuthorKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FFAuthorKit/FFAuthorKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FFAuthorKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FFAuthorKit/FFAuthorKit.modulemap";
+				PRODUCT_MODULE_NAME = FFAuthorKit;
+				PRODUCT_NAME = FFAuthorKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 3.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		87B0ED07DB9F30F3869C1E249207B794 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 70D1991148FEAB52C87267876F06834F /* FFAuthorKit.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				CURRENT_PROJECT_VERSION = 1;
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				GCC_PREFIX_HEADER = "Target Support Files/FFAuthorKit/FFAuthorKit-prefix.pch";
+				INFOPLIST_FILE = "Target Support Files/FFAuthorKit/Info.plist";
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				MODULEMAP_FILE = "Target Support Files/FFAuthorKit/FFAuthorKit.modulemap";
+				PRODUCT_MODULE_NAME = FFAuthorKit;
+				PRODUCT_NAME = FFAuthorKit;
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				SWIFT_VERSION = 3.2;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
 		};
 		8B33C5230DE4A9DFA6D8F46505DD7AF7 /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -4756,8 +4758,8 @@
 		167C68ED3639001AB4330ACD9B7A64AE /* Build configuration list for PBXNativeTarget "FFAuthorKit" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				35F77FB3ABFDB657C1308C43B868C1F5 /* Debug */,
-				2CCF0DEC4011FE7CE84EBE90BC5906C1 /* Release */,
+				7792DF9F9303E909C226D16CD4B8D3C6 /* Debug */,
+				87B0ED07DB9F30F3869C1E249207B794 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

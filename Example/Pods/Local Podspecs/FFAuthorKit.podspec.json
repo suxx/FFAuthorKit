@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "summary": "作者组件FFAuthorKit.",
   "description": "TODO: Add long description of the pod here.",
+  "swift_version": "3.2",
   "homepage": "https://github.com/suxx/FFAuthorKit",
   "license": {
     "type": "MIT",
