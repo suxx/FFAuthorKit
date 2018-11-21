@@ -8,8 +8,8 @@
 
 #import "FFAuthorCell.h"
 #import <FFAuthorKit/FFAuthorKit.h>
-#import "YYWebImage.h"
-#import "FFAuthorListReformerKeys.h"
+//#import "YYWebImage.h"
+//#import "FFAuthorListReformerKeys.h"
 
 @interface FFAuthorCell ()
 
