@@ -16,6 +16,7 @@
 #import "FFAuthorController.h"
 #import "FFAuthorListReformer.h"
 #import "FFAuthorKit.h"
+#import "Target_author.h"
 
 FOUNDATION_EXPORT double FFAuthorKitVersionNumber;
 FOUNDATION_EXPORT const unsigned char FFAuthorKitVersionString[];

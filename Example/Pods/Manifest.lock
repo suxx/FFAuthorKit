@@ -17,7 +17,7 @@ PODS:
   - FFAPIsKit (0.1.0):
     - AFNetworking
     - FFToolsKit
-  - FFAuthorKit (0.1.0):
+  - FFAuthorKit (0.1.5):
     - FFAPIsKit
     - FFCategoryKit
     - FFConfigsKit
@@ -84,7 +84,7 @@ EXTERNAL SOURCES:
 SPEC CHECKSUMS:
   AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
   FFAPIsKit: df26ca96cc02118ea38262d0fe7436f142ebe690
-  FFAuthorKit: ebdca2aa7cb177b0e14d4d3fe9a74476150110cf
+  FFAuthorKit: e424bffcb2db61dff695cb3557dd007ebb7472d2
   FFCategoryKit: 85cbe79be83779b4de20047eceb881281c21d23a
   FFConfigsKit: 3bd13bb4dfd35c935014861e414c3e36b90f9237
   FFMainViewKit: c89ba58c64d9e31bbd22a62882785cac362ff4b9
