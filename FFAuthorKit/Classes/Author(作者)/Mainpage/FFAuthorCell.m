@@ -7,7 +7,7 @@
 //
 
 #import "FFAuthorCell.h"
-#import "FFAuthorKit.h"
+#import <FFAuthorKit/FFAuthorKit.h>
 #import "YYWebImage.h"
 #import "FFAuthorListReformerKeys.h"
 

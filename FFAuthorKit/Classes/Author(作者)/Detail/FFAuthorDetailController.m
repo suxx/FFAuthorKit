@@ -8,7 +8,6 @@
 
 #import "FFAuthorDetailController.h"
 
-
 @interface FFAuthorDetailController ()
 
 @end

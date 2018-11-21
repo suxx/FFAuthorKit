@@ -6,7 +6,7 @@
 //  Copyright © 2017年 Triangle. All rights reserved.
 //
 
-#import "FFAuthorKit.h"
+#import "APIRequest.h"
 
 @interface AuthorAPIRequest : APIRequest<APIRequestProtocol>
 

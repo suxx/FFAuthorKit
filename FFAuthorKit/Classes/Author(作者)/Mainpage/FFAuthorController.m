@@ -7,14 +7,15 @@
 //
 
 #import "FFAuthorController.h"
-#import "FFAuthorKit.h"
+//#import "public.h"
 #import "AuthorAPIRequest.h"
 #import "FFAuthorListReformer.h"
 // view
-//#import "FFMainView.h"
+#import "FFMainView.h"
 #import "FFAuthorCell.h"
 // controller
 #import "FFAuthorDetailController.h"
+#import <FFCategoryKit/FFCategoryKit-umbrella.h>
 //#import "FFSpecialDetailController.h"
 
 @interface FFAuthorController ()<APIResponseProtocol,FFCellProtocol>

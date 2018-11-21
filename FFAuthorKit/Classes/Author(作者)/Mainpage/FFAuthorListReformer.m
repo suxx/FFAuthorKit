@@ -8,12 +8,7 @@
 
 #import "FFAuthorListReformer.h"
 #import <UIKit/UIKit.h>
-//#import "FFReformProtocol.h"
-//#import "FFAuthorListReformerKeys.h"
-#import "FFAuthorKit.h"
 
-@interface FFAuthorListReformer ()<FFReformProtocol>
-@end
 @implementation FFAuthorListReformer
 
 - (NSDictionary *)reformData:(NSDictionary *)originData {
