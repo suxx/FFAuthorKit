@@ -1,0 +1,60 @@
+{
+  "name": "FFAuthorKit",
+  "version": "0.1.0",
+  "summary": "作者组件FFAuthorKit.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/suxx/FFAuthorKit",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "suxx9999@qq.com": "suxx9999@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/suxx/FFAuthorKit.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "FFAuthorKit/Classes/**/*",
+  "frameworks": [
+    "Foundation",
+    "UIKit"
+  ],
+  "libraries": [
+    "c++",
+    "sqlite3",
+    "z"
+  ],
+  "dependencies": {
+    "Masonry": [
+
+    ],
+    "YYWebImage": [
+
+    ],
+    "ReactiveCocoa": [
+
+    ],
+    "FFAPIsKit": [
+
+    ],
+    "FFReformerKeysKit": [
+
+    ],
+    "FFToolsKit": [
+
+    ],
+    "FFConfigsKit": [
+
+    ],
+    "FFMainViewKit": [
+
+    ],
+    "FFCategoryKit": [
+
+    ]
+  }
+}
