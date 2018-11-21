@@ -15,7 +15,7 @@
 #import "FFAuthorCell.h"
 // controller
 #import "FFAuthorDetailController.h"
-#import <FFCategoryKit/FFCategoryKit-umbrella.h>
+#import <FFAuthorKit/FFAuthorKit.h>
 //#import "FFSpecialDetailController.h"
 
 @interface FFAuthorController ()<APIResponseProtocol,FFCellProtocol>
